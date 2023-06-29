@@ -1,1 +1,1 @@
-console.log('Test');
+alert('Process complete');
