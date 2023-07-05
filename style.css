@@ -7,11 +7,12 @@
 body {
     background: linear-gradient(to top, rgba(194, 179, 209, 0), rgba(64, 50, 77, 0.4) 37%, rgb(127, 54, 201) 63%);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 2em;
+    /* font-size: 2em; */
 }
 
 h1 {
     border-bottom: 3px solid #fff;
+    font-size: 3em;
 }
 
 span {
