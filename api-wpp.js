@@ -1,1 +1,1 @@
-console.log('Wpp API added successfully');
+console.log('Wpp-API added successfully');
